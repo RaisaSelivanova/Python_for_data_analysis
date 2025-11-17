@@ -1,0 +1,72 @@
+﻿*.csv : Имя "*.csv" не распознано как имя командлета, функции, файла сценария или выполняемой программы. Проверьте правильность напис
+ания имени, а также наличие и правильность пути, после чего повторите попытку.
+строка:1 знак:1
++ *.csv
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (*.csv:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+*.xlsx : Имя "*.xlsx" не распознано как имя командлета, функции, файла сценария или выполняемой программы. Проверьте правильность нап
+исания имени, а также наличие и правильность пути, после чего повторите попытку.
+строка:2 знак:1
++ *.xlsx
++ ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (*.xlsx:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+*.json : Имя "*.json" не распознано как имя командлета, функции, файла сценария или выполняемой программы. Проверьте правильность нап
+исания имени, а также наличие и правильность пути, после чего повторите попытку.
+строка:3 знак:1
++ *.json
++ ~~~~~~
+    + CategoryInfo          : ObjectNotFound: (*.json:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+*.pkl : Имя "*.pkl" не распознано как имя командлета, функции, файла сценария или выполняемой программы. Проверьте правильность напис
+ания имени, а также наличие и правильность пути, после чего повторите попытку.
+строка:4 знак:1
++ *.pkl
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (*.pkl:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+__pycache__/ : Имя "__pycache__/" не распознано как имя командлета, функции, файла сценария или выполняемой программы. Проверьте прав
+ильность написания имени, а также наличие и правильность пути, после чего повторите попытку.
+строка:5 знак:1
++ __pycache__/
++ ~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (__pycache__/:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+*.pyc : Имя "*.pyc" не распознано как имя командлета, функции, файла сценария или выполняемой программы. Проверьте правильность напис
+ания имени, а также наличие и правильность пути, после чего повторите попытку.
+строка:6 знак:1
++ *.pyc
++ ~~~~~
+    + CategoryInfo          : ObjectNotFound: (*.pyc:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.ipynb_checkpoints/ : Имя ".ipynb_checkpoints/" не распознано как имя командлета, функции, файла сценария или выполняемой программы. 
+Проверьте правильность написания имени, а также наличие и правильность пути, после чего повторите попытку.
+строка:7 знак:1
++ .ipynb_checkpoints/
++ ~~~~~~~~~~~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.ipynb_checkpoints/:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+.DS_Store : Имя ".DS_Store" не распознано как имя командлета, функции, файла сценария или выполняемой программы. Проверьте правильнос
+ть написания имени, а также наличие и правильность пути, после чего повторите попытку.
+строка:8 знак:1
++ .DS_Store
++ ~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (.DS_Store:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
+Thumbs.db : Имя "Thumbs.db" не распознано как имя командлета, функции, файла сценария или выполняемой программы. Проверьте правильнос
+ть написания имени, а также наличие и правильность пути, после чего повторите попытку.
+строка:9 знак:1
++ Thumbs.db
++ ~~~~~~~~~
+    + CategoryInfo          : ObjectNotFound: (Thumbs.db:String) [], CommandNotFoundException
+    + FullyQualifiedErrorId : CommandNotFoundException
+ 
